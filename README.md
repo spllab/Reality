@@ -1,7 +1,8 @@
 # Reality
 Reality :: Snapshot on Career Opportunities and Industry Requirements in Tech 
 
-# TikTok 
+# [TikTok ](https://www.youtube.com/watch?v=UHyX9zBluMw)
+
 ## [Frontend Engineer (TikTok e-Commerce) - 2023 Start](https://careers.tiktok.com/position/7132809801511618852/detail)
 ### Responsibilities
 * Architect and develop efficient and highly reusable front-end systems that drive complex web applications for e-commerce products.
